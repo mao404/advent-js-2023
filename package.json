@@ -6,7 +6,8 @@
   "scripts": {
     "test": "jest",
     "test:1": "jest -i retos/reto1/reto1.test.js",
-    "test:2": "jest -i retos/reto2/reto2.test.js"
+    "test:2": "jest -i retos/reto2/reto2.test.js",
+    "test:3": "jest -i retos/reto3/reto3.test.js"
   },
   "keywords": [],
   "author": "",
