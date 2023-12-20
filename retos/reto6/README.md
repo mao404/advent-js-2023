@@ -47,7 +47,7 @@ let right = movements.match(/>/g)?.length ?? 0;
 let left = movements.match(/</g)?.length ?? 0;
 ```
 
-Se asigna el acumulador y la suma de distancias:
+Se asigna el acumulador, la suma y resta de movimientos:
 
 ```js
 let distance = 0;
