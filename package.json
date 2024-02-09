@@ -24,7 +24,8 @@
     "test:17": "jest -i retos/reto17/reto17.test.js",
     "test:18": "jest -i retos/reto18/reto18.test.js",
     "test:19": "jest -i retos/reto19/reto19.test.js",
-    "test:20": "jest -i retos/reto20/reto20.test.js"
+    "test:20": "jest -i retos/reto20/reto20.test.js",
+    "test:21": "jest -i retos/reto21/reto21.test.js"
   },
   "keywords": [],
   "author": "",
